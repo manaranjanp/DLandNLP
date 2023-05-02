@@ -1,0 +1,506 @@
+{
+  "classes": [
+    "BALLTYPE",
+    "SHOTTYPE"
+  ],
+  "annotations": [
+    [
+      "Brathwaite to Shubman Gill, out Caught by Rashid Khan!! Rashid Khan has gobbled this up like a candy in the deep. What ridiculous ease. Full ball on leg stump from round the wicket, Brathwaite's round the wicket angle cramped Gill up meaning that there was no power behind the shot. He merely chipped it up. Rashid settles under it, around five yards in front of the boundary, and swallows it. Shubman Gill c Rashid Khan b Brathwaite 30(20) [4s-2 6s-1]",
+      {
+        "entities": [
+          [
+            136,
+            145,
+            "BALLTYPE"
+          ],
+          [
+            293,
+            300,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Axar to Uthappa, FOUR, deft touch from Uthappa, Axar dropped one short and wide of off, Uthappa makes room, waits on it, uses the pace on the ball and dabs it late, beats Sandeep at short third man and rolls away to the fence",
+      {
+        "entities": [
+          [
+            65,
+            79,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Rabada to Khaleel Ahmed, out Bowled!! Backs away, creates room and misses the fullish ball for DC to complete the formalities. From 101 for 2 to 116 bowled out. DC jump to second in the points table. Khaleel Ahmed b Rabada 0(1)",
+      {
+        "entities": [
+          [
+            78,
+            85,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Bumrah to Suryakumar Yadav, out Caught by Malinga!! Talk of dreamy bowling figures. 3 wickets, 2 runs. This is a T20 mind you. And a qualifier too. Bumrah helps himself to a few free ones. Bangs it in short, Yadav wants to pull it into the river. The sluggish pitch makes him wait and then spits the ball up too. Just the top edge but Malinga swirls all under it at long leg, almost messes it up and then dives to bring about a massive smile on his face. Suryakumar Yadav c Malinga b Bumrah 31(25) [4s-2 6s-1]",
+      {
+        "entities": [
+          [
+            201,
+            206,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Chahar to Williamson, FOUR, smashed! Not an error from the bowler, but that shot was all about Williamson's class. Hawkeyed the ball and freed his arms to slaughter the cut through covers",
+      {
+        "entities": [
+          [
+            169,
+            172,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Tahir to Rohit, FOUR, that's beautifully done from Rohit. He was initially beaten by the turn on this leg-break, but he didn't commit so he was able to open the bat-face and steer it past slip",
+      {
+        "entities": [
+          [
+            102,
+            111,
+            "BALLTYPE"
+          ],
+          [
+            174,
+            179,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Willey to Dhawan, FOUR, that'll give him some confidence. Length delivery on middle, Dhawan stands tall and pummels this one over mid-wicket, that's a fine shot by the southpaw",
+      {
+        "entities": [
+          [
+            58,
+            73,
+            "BALLTYPE"
+          ],
+          [
+            108,
+            115,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hardik Pandya to Dhoni, out Caught by Suryakumar Yadav!! Dhoni departs! Never got going today and with the required rate soaring, he had to take a risk. Tries but doesn't work. Stepped out in a premeditated manner and Hardik smartly dug it short, at the body, cramping MS completely. The result is a forced pull and it's aerial too. Dolly for Surya at square leg. Massive dent to CSK's already fading chances in the game. Dhoni c Suryakumar Yadav b Hardik Pandya 12(21)",
+      {
+        "entities": [
+          [
+            300,
+            311,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Andrew Tye to Kedar Jadhav, FOUR, 10 off first two. fabulous shot. Sets up a solid base, extends his arms and lifts it over extra cover",
+      {
+        "entities": [
+          [
+            110,
+            115,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Jofra Archer to Nair, out Caught by Unadkat!! Oh dear! What are Punjab doing here, self-destruction of the highest order. It was a short ball at the body, Nair was hurried by the extra pace as he wanted to pull it, but the ball got big on him and he ends up slicing it. Unadakat from mid-wicket goes back and takes a brilliant catch, it is never easy taking such catches, but Unadkat made it look easy. Nair c Unadkat b Jofra Archer 3(5)",
+      {
+        "entities": [
+          [
+            131,
+            141,
+            "BALLTYPE"
+          ],
+          [
+            179,
+            189,
+            "BALLTYPE"
+          ],
+          [
+            206,
+            210,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Christian to Y Pathan, SIX, oh, Christian, what have you done. A full toss and gets the treatment it deserved. Was slightly outside off, Pathan crouches low, got underneath and bludgeoned it over long-on. Poses for the photographs as well. Stylish..",
+      {
+        "entities": [
+          [
+            177,
+            187,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Mohit Sharma to Nadeem, out Caught&Bowled!! DD have been bundled out for their lowest score in IPL - the 10th edition is bringing in some unwanted records for teams. First it was RCB - now it's the DD. Slower ball from Mohit, Nadeem didn't read it at all, popped his bat forward, closed the face on the tuck, got a leading edge and it's an absolute dolly to the bowler. Not sure if the Mohali crowd enjoyed the show from DD - you don't want to watch a mismatch after having paid big money for the tickets. Nadeem c and b Mohit Sharma 0(1)",
+      {
+        "entities": [
+          [
+            315,
+            327,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Cummins to Shreyas Iyer, SIX, these small boundaries, I tell you. This was a miscue, right off the cue-end but the ball just clears the rope. A low full toss and Iyer didn't get it off the meat, but enough to clear cow corner",
+      {
+        "entities": [
+          [
+            148,
+            157,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Tom Curran to Kohli, FOUR, 124.4kph, slow, short and wide. Kohli stands tall and throws his bat at it. Gets a fat top-edge that flies over the short third man fielder. Uthappa did run back and dived but to no avail",
+      {
+        "entities": [
+          [
+            43,
+            58,
+            "BALLTYPE"
+          ],
+          [
+            114,
+            122,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Brathwaite to Shivam Mavi, out Caught by Rashid Khan!! Slogs, connects hard and flat, but picks out deep mid-wicket, and who should it be there. Of course Rashid Khan. To Brathwaite's credit, he bowled this pretty full and prevented Mavi from getting much elevation. KKR will at least have Gill on strike. Shivam Mavi c Rashid Khan b Brathwaite 6(4) [4s-1]",
+      {
+        "entities": [
+          [
+            71,
+            84,
+            "SHOTTYPE"
+          ],
+          [
+            214,
+            218,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Khaleel Ahmed to Dhawan, FOUR, Dhawan knows Iyer is biding his time, so he has to attack. Spots an overpitched delivery outside off, transfers his weight quickly forward and bashes it past cover. It was on the rise but just wide of the fielder and off it trickles away to the boundary",
+      {
+        "entities": [
+          [
+            99,
+            110,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Avesh Khan to Miller, FOUR, the extra delivery and a boundary conceded. That's what you call small margins in cricket. Misses the yorker and offers a low full toss outside off, Miller dinks it over extra cover and the timing is such that it beats long-off comfortably",
+      {
+        "entities": [
+          [
+            150,
+            163,
+            "BALLTYPE"
+          ],
+          [
+            184,
+            189,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Stokes to Pant, FOUR, short ball again but slower at 120ks. This time punished. He waited on it and muscled the ball over mid-wicket for a four. He was not over committed into the stroke and that helped him",
+      {
+        "entities": [
+          [
+            22,
+            32,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Rashid Khan to Uthappa, FOUR, the previous shot forces Rashid Khan to pitch it short and Uthappa makes merry. Goes back and pulls it straight down the ground",
+      {
+        "entities": [
+          [
+            79,
+            84,
+            "BALLTYPE"
+          ],
+          [
+            124,
+            129,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "D Kulkarni to Dhoni, SIX, and, the skipper takes full toll of the freebie. A low full toss outside off at 132.9kph, Dhoni bends his back leg, gets under it and then lofts it over deep extra cover",
+      {
+        "entities": [
+          [
+            77,
+            90,
+            "BALLTYPE"
+          ],
+          [
+            165,
+            170,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Tom Curran to du Plessis, no run, that's an inch-perfect yorker, dug-out from between his legs away to short fine leg - Faf is down, gets up and tries to run across, but there's a shy at the striker's end. Would've been out if it had hit...",
+      {
+        "entities": [
+          [
+            57,
+            63,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Narine to Finch, SIX, wow! The intention is clear from both batsmen. Slightly overpitched, Finch gets low and smacks the slog sweep over deep mid-wicket. There was a man in the deep, but he couldn't do anything",
+      {
+        "entities": [
+          [
+            69,
+            89,
+            "BALLTYPE"
+          ],
+          [
+            126,
+            131,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hardik Pandya to Stoinis, FOUR, wow! This has been a morale-boosting over for Punjab. Banged short, at the stumps. Stoinis is too strong to miss out. Pulls it witheringly to the cow corner fence",
+      {
+        "entities": [
+          [
+            93,
+            98,
+            "BALLTYPE"
+          ],
+          [
+            150,
+            155,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Prasidh to Kohli, FOUR, Kohli-special! Treat for the crowd. It was on a fuller length and was on the stumps, Kohli takes a good stride forward and leans into it, he times the drive superbly well. It beats the cover and races to the fence",
+      {
+        "entities": [
+          [
+            72,
+            85,
+            "BALLTYPE"
+          ],
+          [
+            175,
+            180,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "A Russell to Warner, out Caught by Uthappa!! That's a smart catch from Uthappa and didn't KKR need this - Warner will be kicking himself though, a wide half-volley and he creamed it sweetly - the timing was sweet, but Warner didn't hit the gap - was travelling to his left, but Uthappa slid across, got both hands to it and holds on. Can this make a difference of 15-20 runs? Warner c Uthappa b A Russell 85(53) [4s-9 6s-3]",
+      {
+        "entities": [
+          [
+            147,
+            163,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Moeen Ali to Finch, SIX, welcome to the attack Moeen Ali! Dragged back length and Finch makes room to thump the pull over deep mid-wicket. That is a monster hit from the Aussie and he remains the key for KXIP",
+      {
+        "entities": [
+          [
+            66,
+            77,
+            "BALLTYPE"
+          ],
+          [
+            112,
+            116,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "S Kaul to Rohit, out Bowled!! The slower ball does the trick. It was an off-pace short ball well outside off, Rohit is early into his pull shot. He gets an inside edge and it also came off the bottom portion of the bat. Hits his boot and cannons onto the stumps. He could have gone with a stroke through the off-side. Anyway, end of a fine knock. Rohit b S Kaul 67(45) [4s-6 6s-2]",
+      {
+        "entities": [
+          [
+            81,
+            91,
+            "BALLTYPE"
+          ],
+          [
+            134,
+            138,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Shami to Rahane, FOUR, help-yourself-to-a-boundary ball from Shami. Short and down leg, fine leg was inside the ring and Rahane swivel-pulls it behind square on the leg-side",
+      {
+        "entities": [
+          [
+            128,
+            140,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Cutting to Chawla, out Caught by Suryakumar Yadav!! Holes out in the deep. Swiped across the line of this slower ball, but got it right off the toe-end. The line was a touch wide of off, which didn't work in his favour either as he had to fetch it. Right down the throat of Suryakumar at deep mid-wicket. Chawla c Suryakumar Yadav b Cutting 11(13) [4s-1]",
+      {
+        "entities": [
+          [
+            106,
+            117,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Axar to Gambhir, SIX, wow. Just wow. This is sheer timing. Also shows you how good the pitch is. Makes some early room down leg and just chips it. Carries well over the long-off boundary. See it to believe it",
+      {
+        "entities": [
+          [
+            137,
+            142,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "T Natarajan to Mandeep, FOUR, and he gets lucky with an outside edge that runs away for four! No one at slip and third man can't cut that off. Natarajan bowled full and outside off stump, Mandeep reached out to meet the ball, the ball escaped off the edge",
+      {
+        "entities": [
+          [
+            160,
+            164,
+            "BALLTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Rasikh Salam to Pant, SIX, going, going and gone! That's hugeeeeeeee! And tell you what, he has only used one hand. This is unbelievable power-hitting from Pant. It was a slower delivery wide of off, Pant takes it from wide of off, brings his bat down at an incredible speed and launches it over long-on for a six",
+      {
+        "entities": [
+          [
+            171,
+            177,
+            "BALLTYPE"
+          ],
+          [
+            279,
+            287,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Avesh Khan to Hales, FOUR, Hales is aware of the field. Perhaps realised another short ball was coming. Moved away to the leg-side, opened himself up and ramps it over short third man",
+      {
+        "entities": [
+          [
+            81,
+            86,
+            "BALLTYPE"
+          ],
+          [
+            154,
+            159,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ],
+    [
+      "Dinda to Parthiv Patel, FOUR, this pitch is a belter, 180 is a must. Half-volley outside off, Parthiv Patel stands tall and slams it straight of mid-off who dives in vain",
+      {
+        "entities": [
+          [
+            69,
+            80,
+            "BALLTYPE"
+          ],
+          [
+            133,
+            141,
+            "SHOTTYPE"
+          ]
+        ]
+      }
+    ]
+  ]
+}
